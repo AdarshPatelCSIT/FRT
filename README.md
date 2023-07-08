@@ -22,7 +22,7 @@ Used Technology:
 3. JavaScript
 
  Azure Technology Used:
- 1. Statics Website
+ 1. Statics Web Application (for deployment of the website)
  2. Containers
 
 Steps to deployment:
@@ -39,7 +39,7 @@ Steps to deployment:
 
 6.Aftar that I have created a container with bio storage and uploaded my project code in the container.
 
-7. After that started my static web service and deployed my myfrt01 azure static web services.
+7. After that started my static web service and deployed my (myfrt01) azure static web services.
 
 8.Finally my website as deployed on the azure web services and ready is use.
 
